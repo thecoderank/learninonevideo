@@ -1,1 +1,5 @@
 # learninonevideo
+
+
+type 
+npm install
